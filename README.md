@@ -1,6 +1,6 @@
 #  Monarch Population Dynamics, 1994-2018
 
-### Erin R. Zylstra, et al.
+### Erin R. Zylstra, Leslie Ries, Naresh Neupane, Sarah P. Saunders, M. Isabel Ramirez, Eduardo Rendon-Salinas, Karen S. Oberhauser, Matthew T. Farr, and Elise F. Zipkin
 _______________________________________________________________________________________________________________________________________
 
 ## R code for 2004-2018 models 
