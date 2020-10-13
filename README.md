@@ -80,11 +80,11 @@ All monarch data from the overwintering grounds and covariate data are publicly 
 2. [ReducedModel_HierPart.stan](ReducedAnnualCycleModel_1994-2003/ReducedModel.stan): Stan model file, used in HierarchicalPartitioning_1994-2003.R.
 
 ## Data files for 1994-2003
-1. [Monarchs_winter_1994-2018.csv](FullAnnualCycleModel_1994-2018/Monarchs_winter_1994-2018.csv): Data on overwintering monarch aggregations, 1994-2018. 
+1. [Monarchs_winter_1994-2018.csv](ReducedAnnualCycleModel_1994-2003/Monarchs_winter_1994-2018.csv): Data on overwintering monarch aggregations, 1994-2018. 
     - yr: year 
     - dec: total area occupied (ha) by monarchs on the overwintering grounds in late December
     - dense: percent of surrounding area with dense forest cover, averaged among supercolonies
-2. [Covariates_County_1994-2018.txt](FullAnnualCycleModel_1994-2018/Covariates_County_1994-2018.txt): Covariate values associated with each county on the summer breeding range in the U.S.
+2. [Covariates_County_1994-2018.txt](ReducedAnnualCycleModel_1994-2003/Covariates_County_1994-2018.txt): Covariate values associated with each county on the summer breeding range in the U.S.
     - county.ind: a unique index identifying each county (1:502)
     - state.county: combined state-county FIPS code
     - state: FIPS code for each state
@@ -100,7 +100,7 @@ All monarch data from the overwintering grounds and covariate data are publicly 
     - perc.open: percent of each county that is unforested
     - perc.crop: percent of each county associated with agricultural crops
     - surveyed: indicates whether one or more monarch surveys were conducted in the county between 2004 and 2018 or not (1 or 0, respectively)
-3. [Covariates_Year_1994-2018.csv](FullAnnualCycleModel_1994-2018/Covariates_Year_1994-2018.csv): Annual covariate values, 1994-2018. File structure is the same as that of Covariates_Year.csv except that February estimates of area occupied on the overwintering grounds(feb) are not included because they are unavailable prior to 2005.  
-4. [Covariates_CountyYear_1994-2018.csv](FullAnnualCycleModel_1994-2018/Covariates_CountyYear_1994-2018.csv): Annual covariate values associated with each county on the summer breeding range, in the U.S., 1994-2018. File structure is the same as that of Covariates_CountyYear.csv.
-5. [Covariates_CountyWeek_1994-2018.csv](FullAnnualCycleModel_1994-2018/Covariates_CountyWeek_1994-2018.csv): Weekly covariate values associated with each county on the summer breeding range, in the U.S., 1994-2018. File structure is the same as that of Covariates_CountyWeek.csv.
+3. [Covariates_Year_1994-2018.csv](ReducedAnnualCycleModel_1994-2003/Covariates_Year_1994-2018.csv): Annual covariate values, 1994-2018. File structure is the same as that of Covariates_Year.csv except that February estimates of area occupied on the overwintering grounds(feb) are not included because they are unavailable prior to 2005.  
+4. [Covariates_CountyYear_1994-2018.csv](ReducedAnnualCycleModel_1994-2003/Covariates_CountyYear_1994-2018.csv): Annual covariate values associated with each county on the summer breeding range, in the U.S., 1994-2018. File structure is the same as that of Covariates_CountyYear.csv.
+5. [Covariates_CountyWeek_1994-2018.csv](ReducedAnnualCycleModel_1994-2003/Covariates_CountyWeek_1994-2018.csv): Weekly covariate values associated with each county on the summer breeding range, in the U.S., 1994-2018. File structure is the same as that of Covariates_CountyWeek.csv.
 6. Monarchs_summer_1994-2018.csv: Data from monarch surveys on the summer breeding grounds, 1994-2018 (not publicly available). File structure is the same as that of Monarchs_summer.csv. 
