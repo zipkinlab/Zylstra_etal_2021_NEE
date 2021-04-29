@@ -117,7 +117,7 @@ All monarch data from the overwintering grounds and covariate data are publicly 
     - diffPCP: difference between annual precipitation (cumulative, Apr-Aug) and average precipitation (average of annual values, 1994-2018) in each county
     - diffPCP.9403: difference between annual precipitation (cumulative, Apr-Aug) and average precipitation (average of annual values, 1994-2003) in each county
     - diffPCP.0418: difference between annual precipitation (cumulative, Apr-Aug) and average precipitation (average of annual values, 2004-2018) in each county
-5. [Covariates_CountyWeek_1994-2018.csv](Data/Covariates_CountyWeek_1994-2018.csv): Weekly covariate values associated with each county on the summer breeding range, in the U.S., 1994-2018. File structure is the same as that of Covariates_CountyWeek.csv.
+5. [Covariates_CountyWeek_1994-2018.csv](Data/Covariates_CountyWeek_1994-2018.csv): Weekly covariate values associated with each county on the summer breeding range, in the U.S., 1994-2018.
     - county.ind: a unique index identifying each county (1:545)
     - state.county: combined state-county FIPS code
     - yr: year
