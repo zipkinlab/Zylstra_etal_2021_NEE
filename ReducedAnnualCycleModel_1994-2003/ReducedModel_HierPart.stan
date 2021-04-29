@@ -8,7 +8,7 @@ data {
 
 	// indices
 	int<lower=1,upper=n_years>    year_id[n_cyw];            // year id (1:15)
-	int<lower=1,upper=n_cyw>      cyw_id[n_surveys];         // id for colony-year-week combination
+	int<lower=1,upper=n_cyw>      cyw_id[n_surveys];         // id for county-year-week combination
 
 	// number of regression coefficients
 	int<lower=1> n_cov_alpha;   // number of fixed effects in county-level model (summer)
