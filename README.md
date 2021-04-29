@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 ## Stan model files for 1994-2003
 1. [ReducedModel_1994-2003.stan](ReducedAnnualCycleModel_1994-2003/ReducedModel_1994-2003.stan): Stan model file, used in ReducedModel_1994-2003.R.
-2. [ReducedModel_HierPart.stan](ReducedAnnualCycleModel_1994-2003/ReducedModel.stan): Stan model file, used in HierarchicalPartitioning_1994-2003.R.
+2. [ReducedModel_HierPart.stan](ReducedAnnualCycleModel_1994-2003/ReducedModel_HierPart.stan): Stan model file, used in HierarchicalPartitioning_1994-2003.R.
 
 ## Data files for 2004-2018 (full annual-cycle model)
 All monarch data from the overwintering grounds and covariate data are publicly available.  Monarch data from the summer breeding grounds are proprietary and are therefore not publicly available (though we provide descriptions of those files here).  
