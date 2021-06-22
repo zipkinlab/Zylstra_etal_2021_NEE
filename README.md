@@ -8,6 +8,15 @@ Declines in the abundance and diversity of insects pose a substantial threat to 
 
 _______________________________________________________________________________________________________________________________________
 
+## Repository Directory
+
+1. [Data](Data): Contains all non-proprietary data files used for this project.
+2. [FullAnnualCycleModel_2004-2018](FullAnnualCycleModel_2004-2018): Contains all R and Stan files used for the full annual cycle model.
+3. [ReducedAnnualCycleModel_1994-2003](ReducedAnnualCycleModel_1994-2003): Contains all R and Stan files used for the reduced annual cycle model from 1994-2003.
+4. [ReducedAnnualCycleModel_2004-2018](ReducedAnnualCycleModel_2004-2018): Contains all R and Stan files used for the reduced annual cycle model from 2004-2018.
+
+_______________________________________________________________________________________________________________________________________
+
 ## R code for 2004-2018 models 
 1. [FullModel_2004-2018.R](FullAnnualCycleModel_2004-2018/FullModel_2004-2018.R): R code used to model population dynamics of monarch butterflies (*Danaus plexippus*) in eastern North America between 2004 and 2018. This is the model used for inferences that includes all seasonal covariates.
 2. [HierarchicalPartitioning_Summer_2004-2018.R](FullAnnualCycleModel_2004-2018/HierarchicalPartitioning_Summer_2004-2018.R): R code used to run all models needed to evaluate the relative importance of covariates in the summer submodel. Includes code to run hierarchical partitioning analysis.
