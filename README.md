@@ -4,6 +4,8 @@
 
 ### Nature Ecology and Evolution
 
+### Code/Data DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4085906.svg)](https://doi.org/10.5281/zenodo.4085906)
+
 ### Please contact the first author for questions about the code or data: Erin R. Zylstra (zylstr91@msu.edu)
 __________________________________________________________________________________________________________________________________________
 
