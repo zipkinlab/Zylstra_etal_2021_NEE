@@ -1,6 +1,10 @@
 #  Changes in climate drive recent monarch butterfly dynamics
 
 ### [Erin R. Zylstra](https://github.com/ezylstra), Leslie Ries, Naresh Neupane, [Sarah P. Saunders](https://github.com/saund123), M. Isabel Ramirez, Eduardo Rendon-Salinas, Karen S. Oberhauser, [Matthew T. Farr](https://github.com/farrmt), and [Elise F. Zipkin](https://ezipkin.github.io/)
+
+### Nature Ecology and Evolution
+
+### Please contact the first author for questions about the code or data: Erin R. Zylstra (zylstr91@msu.edu)
 __________________________________________________________________________________________________________________________________________
 
 ## Abstract:  
