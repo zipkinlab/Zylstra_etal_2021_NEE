@@ -1,4 +1,4 @@
-#  Changes in climate drive recent monarch butterfly dynamics
+#  [Changes in climate drive recent monarch butterfly dynamics](https://doi.org/10.1038/s41559-021-01504-1)
 
 ### [Erin R. Zylstra](https://github.com/ezylstra), Leslie Ries, Naresh Neupane, [Sarah P. Saunders](https://github.com/saund123), M. Isabel Ramirez, Eduardo Rendon-Salinas, Karen S. Oberhauser, [Matthew T. Farr](https://github.com/farrmt), and [Elise F. Zipkin](https://ezipkin.github.io/)
 
@@ -12,6 +12,7 @@ ________________________________________________________________________________
 ## Abstract:  
 Declines in the abundance and diversity of insects pose a substantial threat to terrestrial ecosystems worldwide. Yet, identifying the causes of these declines has proved difficult, even for well-studied species like monarch butterflies, whose eastern North American population has decreased markedly over the last three decades. Three hypotheses have been proposed to explain the changes observed in the eastern monarch population: loss of milkweed host plants from increased herbicide use, mortality during autumn migration and/or early-winter resettlement, and changes in breeding-season climate. Here, we use a hierarchical modeling approach, combining data from >18,000 systematic surveys to evaluate support for each of these hypotheses over a 25-year period. Between 2004–2018, breeding-season weather was nearly seven times more important than other factors in explaining variation in summer population size, which was positively associated with the size of the subsequent overwintering population. Although data limitations prevent definitive evaluation of the factors governing population size between 1994–2003 (the period of the steepest monarch decline coinciding with a widespread increase in herbicide use), breeding-season weather was similarly identified as an important driver of monarch population size. If observed changes in spring and summer climate continue, portions of the current breeding range may become inhospitable for monarchs. Our results highlight the increasingly important contribution of a changing climate to insect declines.
 
+## [Published PDF](Zylstra_etal_2021_NEE.pdf)
 _______________________________________________________________________________________________________________________________________
 
 ## Repository Directory
